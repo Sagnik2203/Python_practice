@@ -1,3 +1,3 @@
 print("editor")
 string = "python"
-string.replace()
+print(len(string))
